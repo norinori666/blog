@@ -30,5 +30,5 @@
 
 ![minikube start error](minikube start error.png)  
   
-
+- [How to Setup Minikube on MAC M1/M2](https://devopscube.com/minikube-mac/)を参照してセットアップしたら起動できるようになった。
   
