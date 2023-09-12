@@ -12,3 +12,21 @@
 - ブログをMarkdownで書こうと思い書き方をちょっと調べた。  
 参考ページ：[【超入門】Markdown記法の使い方 （サンプル付き）](https://tech-blog.rakus.co.jp/entry/20200624/markdown#1-%E8%A6%8B%E5%87%BA%E3%81%97)
 - Udemy セクション1を完了  
+
+## 9/12
+- [VirtualBox](https://www.virtualbox.org/)をインストールした。
+  最新版は実行できなかったので、一つ古いバージョンをインストールした。amd64のみで動くとのこと。
+  >Macに搭載されているCPUのアーキテクチャを確認する方法  
+  >% uname -m  
+  >arm64
+
+- minikubeとkubectlをインストールした。
+  >brew install minikube  
+  >brew install kubectl  
+
+- minikubeのインストールでエラーが出るので、コマンドラインデベロッパーツールをインストールした。
+- minikubeが起動できない。
+  >minikube start
+  
+
+  
