@@ -29,8 +29,6 @@
   >minikube start  
 
 ![minikube start error](minikube start error.png)  
-![minikube start error](/minikube start error.png)  
-![minikube start error](https://norinori666.github.io/blog/minikube start error.png)
   
 
   
